@@ -4,4 +4,4 @@ let currentUser = 'Cricky';
 let excitedCurrentUser = "CRICKY"
 let welcomeMessage = 'Welcome to Flatbook, ' + currentUser + '!';
 let excitedWelcomeMessage = "WELCOME TO FLATBOOK, " + excitedCurrentUser + '!';
-let shortGreeting = 'Welcome, '
+let shortGreeting = 'Welcome, ' + C;
